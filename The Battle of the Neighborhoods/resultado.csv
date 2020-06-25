@@ -1,0 +1,65 @@
+,COLONIA,ALCALDIA,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+0,NARVARTE V,BENITO JUAREZ,19.3860505701,-99.1571597677,0,Coffee Shop,Spa,Seafood Restaurant,Mexican Restaurant,Vegetarian / Vegan Restaurant
+1,PORTALES III,BENITO JUAREZ,19.3632112784,-99.1488866713,1,Coffee Shop,Bakery,Spa,Restaurant,Burger Joint
+2,DEL VALLE VII,BENITO JUAREZ,19.3681360911,-99.1713258057,0,Coffee Shop,Mexican Restaurant,Garden,Health Food Store,Seafood Restaurant
+3,NAPOLES (AMPL),BENITO JUAREZ,19.387303224,-99.1777280682,1,Bakery,Ice Cream Shop,Pizza Place,Middle Eastern Restaurant,Taco Place
+4,LETRAN VALLE,BENITO JUAREZ,19.3761321539,-99.1550666351,2,Taco Place,Bakery,Mexican Restaurant,Ice Cream Shop,Pizza Place
+5,NIOS HEROES DE CHAPULTEPEC,BENITO JUAREZ,19.3862840232,-99.1440851495,3,Mexican Restaurant,Coffee Shop,Ice Cream Shop,Burger Joint,Gym / Fitness Center
+6,ZACAHUITZCO,BENITO JUAREZ,19.3732090388,-99.1387560374,3,Mexican Restaurant,Taco Place,Dessert Shop,Breakfast Spot,Bakery
+7,NARVARTE III,BENITO JUAREZ,19.3920203665,-99.1588440757,0,Coffee Shop,Taco Place,Bakery,Mexican Restaurant,Gym / Fitness Center
+8,MIRAVALLE,BENITO JUAREZ,19.3613041503,-99.1410888215,3,Mexican Restaurant,Coffee Shop,Theater,Performing Arts Venue,Taco Place
+9,JOSEFA ORTIZ DE DOMINGUEZ,BENITO JUAREZ,19.3876570354,-99.1406906812,3,Ice Cream Shop,Mexican Restaurant,Taco Place,Coffee Shop,Burger Joint
+10,INDEPENDENCIA,BENITO JUAREZ,19.3797733751,-99.1480954964,3,Mexican Restaurant,Coffee Shop,Food Truck,Bakery,Steakhouse
+11,INSURGENTES MIXCOAC,BENITO JUAREZ,19.3727310076,-99.1834067293,0,Coffee Shop,Mexican Restaurant,Cosmetics Shop,Diner,Bakery
+12,NAPOLES,BENITO JUAREZ,19.3936944672,-99.1764444932,0,Japanese Restaurant,Coffee Shop,Spa,Mexican Restaurant,Sandwich Place
+13,NARVARTE I,BENITO JUAREZ,19.4001905635,-99.1525120257,4,Ice Cream Shop,Sporting Goods Shop,Clothing Store,Seafood Restaurant,American Restaurant
+14,PORTALES IV,BENITO JUAREZ,19.3592721985,-99.1487837012,1,Bakery,Spa,Mexican Restaurant,Coffee Shop,Restaurant
+15,TLACOQUEMECATL DEL VALLE,BENITO JUAREZ,19.3763189451,-99.1748165044,4,Park,Ice Cream Shop,Mexican Restaurant,Gym / Fitness Center,Floating Market
+16,ACACIAS,BENITO JUAREZ,19.3641058178,-99.1740648927,4,Cosmetics Shop,Mexican Restaurant,Gym,Health Food Store,Sushi Restaurant
+17,IZTACCIHUATL,BENITO JUAREZ,19.3901661043,-99.1356606612,2,Mexican Restaurant,Ice Cream Shop,Taco Place,Dessert Shop,Burger Joint
+18,CREDITO CONSTRUCTOR,BENITO JUAREZ,19.3649337395,-99.1803228599,1,Mexican Restaurant,Sandwich Place,Argentinian Restaurant,Coffee Shop,Café
+19,CIUDAD DE LOS DEPORTES,BENITO JUAREZ,19.3833904099,-99.1800637001,2,Taco Place,Mexican Restaurant,Bakery,Ice Cream Shop,Seafood Restaurant
+20,MIGUEL ALEMAN,BENITO JUAREZ,19.38979443,-99.1445299791,3,Mexican Restaurant,Burger Joint,Taco Place,Brewery,Park
+21,CENTRO URBANO PRESIDENTE ALEMAN (U HAB),BENITO JUAREZ,19.3709709051,-99.1720773809,4,Ice Cream Shop,Supermarket,Gym / Fitness Center,Coffee Shop,Seafood Restaurant
+22,GENERAL PEDRO MARIA ANAYA,BENITO JUAREZ,19.3604816772,-99.1587725365,4,Pool,Bakery,Ice Cream Shop,Theater,Candy Store
+23,SAN JOSE INSURGENTES,BENITO JUAREZ,19.3665119663,-99.1854669048,4,Coffee Shop,Ice Cream Shop,Mexican Restaurant,Italian Restaurant,Tapas Restaurant
+24,DEL VALLE IV,BENITO JUAREZ,19.3823000837,-99.1672694745,1,Mexican Restaurant,Ice Cream Shop,Italian Restaurant,Spa,Restaurant
+25,PORTALES I,BENITO JUAREZ,19.3709523603,-99.1500150172,2,Taco Place,Mexican Restaurant,Flea Market,Burger Joint,Seafood Restaurant
+26,NARVARTE VI,BENITO JUAREZ,19.3868932017,-99.1503848461,0,Coffee Shop,Mexican Restaurant,Music Venue,Breakfast Spot,Southern / Soul Food Restaurant
+27,NONOALCO,BENITO JUAREZ,19.3817607921,-99.1882334724,0,Taco Place,Coffee Shop,Pet Store,Mexican Restaurant,Dance Studio
+28,MERCED GOMEZ,BENITO JUAREZ,19.3656419697,-99.1899279145,4,Ice Cream Shop,Bakery,Coffee Shop,Taco Place,Dessert Shop
+29,INSURGENTES SAN BORJA,BENITO JUAREZ,19.3835263941,-99.1740464393,1,Taco Place,Pizza Place,Restaurant,Ice Cream Shop,Café
+30,ATENOR SALAS,BENITO JUAREZ,19.4031449671,-99.1478617284,1,Seafood Restaurant,Burger Joint,Taco Place,Mexican Restaurant,Breakfast Spot
+31,DEL VALLE V,BENITO JUAREZ,19.3758998445,-99.1688277207,0,Mexican Restaurant,Coffee Shop,Park,Ice Cream Shop,Taco Place
+32,SAN PEDRO DE LOS  PINOS,BENITO JUAREZ,19.3904318465,-99.1847606139,1,Mexican Restaurant,Bakery,Ice Cream Shop,Park,Food Truck
+33,NOCHE BUENA,BENITO JUAREZ,19.3806915127,-99.1788479191,2,Taco Place,Mexican Restaurant,Seafood Restaurant,Bakery,American Restaurant
+34,DEL VALLE II,BENITO JUAREZ,19.3923963454,-99.1669318787,1,Mexican Restaurant,Health & Beauty Service,Bakery,Pet Store,Ice Cream Shop
+35,ALAMOS II,BENITO JUAREZ,19.3949010858,-99.1422306031,2,Taco Place,Mexican Restaurant,Dance Studio,Park,Restaurant
+36,ACTIPAN,BENITO JUAREZ,19.3698819161,-99.1781670524,1,Cosmetics Shop,Burger Joint,Dessert Shop,Coffee Shop,Dance Studio
+37,VILLA DE CORTES,BENITO JUAREZ,19.3874817987,-99.1361888172,3,Mexican Restaurant,Ice Cream Shop,Taco Place,Park,Coffee Shop
+38,ERMITA,BENITO JUAREZ,19.3582712595,-99.1418219688,1,Theater,Performing Arts Venue,Mexican Restaurant,Dance Studio,Film Studio
+39,MARIA DEL CARMEN,BENITO JUAREZ,19.375686937,-99.138181482,3,Mexican Restaurant,Taco Place,Breakfast Spot,Sporting Goods Shop,English Restaurant
+40,RESIDENCIAL EMPERADORES,BENITO JUAREZ,19.3684249074,-99.1575186918,0,Mexican Restaurant,Taco Place,Bakery,Coffee Shop,Pet Café
+41,PERIODISTA FRANCISCO ZARCO,BENITO JUAREZ,19.3824353393,-99.1462049415,3,Mexican Restaurant,Food Truck,Gym / Fitness Center,Coffee Shop,Steakhouse
+42,MIXCOAC,BENITO JUAREZ,19.372884049,-99.1900032071,0,Taco Place,Coffee Shop,Mexican Restaurant,Cupcake Shop,Seafood Restaurant
+43,SAN JUAN,BENITO JUAREZ,19.3783640536,-99.1846839212,0,Taco Place,Coffee Shop,Mexican Restaurant,Health & Beauty Service,Japanese Restaurant
+44,STA CRUZ ATOYAC,BENITO JUAREZ,19.3681589306,-99.1607619028,0,Taco Place,Gym / Fitness Center,Mexican Restaurant,Basketball Court,Chocolate Shop
+45,DEL VALLE III,BENITO JUAREZ,19.3873584786,-99.1675556934,1,Mexican Restaurant,Dance Studio,Coffee Shop,Spa,Taco Place
+46,DEL VALLE VI,BENITO JUAREZ,19.3757198663,-99.1642553397,0,Taco Place,Coffee Shop,Sushi Restaurant,Yoga Studio,Gym / Fitness Center
+47,PORTALES II,BENITO JUAREZ,19.3671996695,-99.1488177919,2,Taco Place,Mexican Restaurant,Seafood Restaurant,Restaurant,Spa
+48,NARVARTE II,BENITO JUAREZ,19.3970602369,-99.1530323945,0,Burger Joint,Coffee Shop,Café,Theme Restaurant,Ice Cream Shop
+49,POSTAL,BENITO JUAREZ,19.390795969,-99.141966075,3,Mexican Restaurant,Taco Place,Coffee Shop,Burger Joint,Tea Room
+50,OCHO DE AGOSTO,BENITO JUAREZ,19.394118322,-99.1870611116,1,Mexican Restaurant,Bakery,Taco Place,Food Truck,Performing Arts Venue
+51,AMERICAS UNIDAS-DEL LAGO,BENITO JUAREZ,19.3818546447,-99.1416770553,3,Mexican Restaurant,Taco Place,Coffee Shop,Gym / Fitness Center,Ice Cream Shop
+52,EXTREMADURA INSURGENTES,BENITO JUAREZ,19.3770350125,-99.1798693519,4,Park,Coffee Shop,Café,Ice Cream Shop,Taco Place
+53,ALBERT,BENITO JUAREZ,19.3705739851,-99.13938982,3,Mexican Restaurant,Dessert Shop,Taco Place,Pizza Place,Breakfast Spot
+54,MODERNA,BENITO JUAREZ,19.395254545,-99.1346460986,2,Taco Place,Mexican Restaurant,Ice Cream Shop,Hobby Shop,Lounge
+55,NATIVITAS,BENITO JUAREZ,19.3816589097,-99.1372833875,3,Mexican Restaurant,Taco Place,Ice Cream Shop,Dessert Shop,Coffee Shop
+56,SAN SIMON TICUMAC,BENITO JUAREZ,19.3748890916,-99.1446431922,1,Mexican Restaurant,Food Truck,Pool,Coffee Shop,Breakfast Spot
+57,DEL VALLE I,BENITO JUAREZ,19.3979204525,-99.1653619352,1,Mexican Restaurant,Coffee Shop,Bakery,BBQ Joint,Seafood Restaurant
+58,VERTIZ NARVARTE,BENITO JUAREZ,19.3819977642,-99.153686751,1,Mexican Restaurant,Bakery,Taco Place,Flower Shop,Steakhouse
+59,XOCO,BENITO JUAREZ,19.3618327938,-99.1667710767,4,Ice Cream Shop,Garden,Cosmetics Shop,Pool,Concert Hall
+60,ALAMOS I,BENITO JUAREZ,19.4004298498,-99.1409292016,0,Mexican Restaurant,Bakery,Coffee Shop,Taco Place,Gym / Fitness Center
+61,NARVARTE IV,BENITO JUAREZ,19.3928398249,-99.1512317284,2,Taco Place,Coffee Shop,Café,Burger Joint,Mexican Restaurant
+62,PIEDAD NARVARTE,BENITO JUAREZ,19.4027049534,-99.1562339153,4,Sporting Goods Shop,Donut Shop,Ice Cream Shop,Clothing Store,Cosmetics Shop
+63,PORTALES ORIENTE,BENITO JUAREZ,19.365916354,-99.1402087162,3,Mexican Restaurant,Taco Place,Coffee Shop,Breakfast Spot,Baseball Stadium
